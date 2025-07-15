@@ -1,9 +1,13 @@
-date,coffee_grams,water_ml,temp_fahrenheit,time_minutes,rating,notes
-2025-07-08,25,400,,5,,way too weak
-2025-07-09,35,400,,4,,too strong and bitter
-2025-07-10,30,450,,6,,getting better
-2025-07-10,30,450,195,4,6,too cold
-2025-07-11,30,450,200,4,7,better but still weak
-2025-07-12,30,450,205,4,8,much better
-2025-07-13,32,450,205,4,7,too strong now
-2025-07-14,30,450,205,4.5,6,too long
+test_number,date,coffee_grams,water_ml,temp_fahrenheit,time_minutes,rating,notes, grinder_setting
+,2025-07-08,25,400,,5,,way too weak,
+,2025-07-09,35,400,,4,,too strong and bitter,
+,2025-07-10,30,450,,6,,getting better,
+,2025-07-10,30,450,195,4,6,too cold,
+,2025-07-11,30,450,200,4,7,better but still weak,
+,2025-07-12,30,450,205,4,8,much better,
+,2025-07-13,32,450,205,4,7,too strong now,
+,2025-07-14,30,450,205,4.5,6,too long,
+1,2025-07-15,30,450,205,4,9,PERFECT recipe,15
+2,2025-07-15,30,450,205,4,8,second batch not as good,15
+3,2025-07-15,30,450,205,3.5,7,tried shorter time,15
+4,2025-07-15,30,450,205,4,9,back to 4 minutes perfect,15
