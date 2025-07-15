@@ -5,7 +5,7 @@
 - **Coffee:** 30g (coarse grind)  
 - **Water:** 500ml (200°F)
 - **Time:** 4 minutes
-- **Ratio:** 1:17
+- **Ratio:** 1:15
 
 ## Method
 
