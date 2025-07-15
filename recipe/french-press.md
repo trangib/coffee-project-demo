@@ -1,5 +1,7 @@
 # French Press Coffee
 
+:) 
+
 ## Basic Recipe
 
 - **Coffee:** 30g (coarse grind)  
